@@ -4,4 +4,4 @@ This is my third line
 this the forth line 2
 this is fifth line
 <<<<<<< HEAD
-the meeting is by 11 am by Miss Ifoma andMr. Abdul
+the meeting is by 11 am by Miss Ifoma and Mr. Abdul
